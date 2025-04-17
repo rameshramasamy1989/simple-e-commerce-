@@ -1,4 +1,4 @@
-const API_URL = "https://rameshramasamy1989.github.io/simple-e-commerce-/db.json";
+const API_URL = "https://rameshramasamy1989.github.io/data/db.json";
 
 let cart = [];
 let allProducts = []; // Store all products globally for filtering
