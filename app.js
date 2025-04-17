@@ -88,7 +88,7 @@ const addToCart = async (productId) => {
   try {
     await fetch(`${API_URL}/cart`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json' , 'origin': 'true'},
       body: JSON.stringify(product),
     });
     renderCart();
