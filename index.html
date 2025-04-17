@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-Commerce App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Login Page -->
+    <div id="login-page" class="page">
+      <h1>Login</h1>
+      <input type="text" id="username" placeholder="Enter Username" value="user123" required>
+      <input type="text" id="password" placeholder="Enter Password" value="pass123" required>
+      <button id="login-btn">Login</button>
+    </div>
+
+    <!-- Product Listing Page -->
+    <div id="product-page" class="page hidden">
+      <header>
+        <h1>Products</h1>
+
+        <div id="cart-icon">
+          🛒 <span id="cart-count">0</span>
+        </div>
+      </header>
+      <input type="text" id="search-bar" placeholder="Search products..."/>
+      <div id="product-grid" class="product-grid"></div>
+    </div>
+
+    <!-- Cart Page -->
+    <div id="cart-page" class="page hidden">
+      <h1>Shopping Cart</h1>
+      <div id="cart-items"></div>
+      <br>
+      <button id="checkout-btn">Proceed to Checkout</button>
+    </div>
+
+    <!-- Shipping Page -->
+    <div id="shipping-page" class="page hidden">
+      <h1>Shipping Information</h1>
+      <form id="shipping-form">
+        <input type="text" id="address" placeholder="Enter Address" required>
+        <input type="text" id="city" placeholder="Enter City" required>
+        <input type="text" id="zip" placeholder="Enter ZIP Code" required>
+        <button type="submit">Next</button>
+      </form>
+    </div>
+
+    <!-- Payment Page -->
+    <div id="payment-page" class="page hidden">
+      <h1>Payment Information</h1>
+      <form id="payment-form">
+        <input type="text" id="card-number" placeholder="Enter Card Number" required>
+        <input type="text" id="expiry" placeholder="Enter Expiry Date" required>
+        <input type="text" id="cvv" placeholder="Enter CVV" required>
+        <button type="submit">Confirm Order</button>
+      </form>
+    </div>
+
+    <!-- Confirmation Page -->
+   <div id="confirmation-page" class="page hidden">
+     <h1>Order Confirmation</h1>
+     <p>Your order has been placed successfully!</p>
+     <p>Order ID: <span id="order-id"></span></p>
+     <h2>Products Ordered</h2>
+     <div id="ordered-products"></div>
+     <h3>Total Price: $<span id="total-price"></span></h3>
+     <h2>Shipping Details</h2>
+     <p id="shipping-details"></p>
+     <h2>Payment Details</h2>
+     <p id="payment-details"></p>
+     <button id="back-to-products-btn">Back to Products</button>
+
+   </div>
+
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

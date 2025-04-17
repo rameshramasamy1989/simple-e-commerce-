@@ -1,0 +1,546 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Mouse",
+      "price": 25.99
+    },
+    {
+      "id": "2",
+      "name": "Bluetooth Headphones",
+      "price": 49.99
+    },
+    {
+      "id": "3",
+      "name": "Gaming Keyboard",
+      "price": 89.99
+    },
+    {
+      "id": "4",
+      "name": "Smartphone Stand",
+      "price": 15.99
+    },
+    {
+      "id": "5",
+      "name": "USB-C Charger",
+      "price": 19.99
+    },
+    {
+      "id": "6",
+      "name": "Laptop Sleeve",
+      "price": 29.99
+    },
+    {
+      "id": "7",
+      "name": "Portable SSD",
+      "price": 99.99
+    },
+    {
+      "id": "8",
+      "name": "4K Monitor",
+      "price": 299.99
+    },
+    {
+      "id": "9",
+      "name": "Webcam",
+      "price": 59.99
+    },
+    {
+      "id": "10",
+      "name": "Mechanical Keyboard",
+      "price": 129.99
+    },
+    {
+      "id": "11",
+      "name": "Wireless Earbuds",
+      "price": 39.99
+    },
+    {
+      "id": "12",
+      "name": "Smartwatch",
+      "price": 199.99
+    },
+    {
+      "id": "13",
+      "name": "External Hard Drive",
+      "price": 79.99
+    },
+    {
+      "id": "14",
+      "name": "HDMI Cable",
+      "price": 9.99
+    },
+    {
+      "id": "15",
+      "name": "USB Hub",
+      "price": 14.99
+    },
+    {
+      "id": "16",
+      "name": "Gaming Chair",
+      "price": 249.99
+    },
+    {
+      "id": "17",
+      "name": "Desk Lamp",
+      "price": 19.99
+    },
+    {
+      "id": "18",
+      "name": "Wireless Charger",
+      "price": 29.99
+    },
+    {
+      "id": "19",
+      "name": "Action Camera",
+      "price": 149.99
+    },
+    {
+      "id": "20",
+      "name": "Noise-Canceling Headphones",
+      "price": 199.99
+    },
+    {
+      "id": "21",
+      "name": "Smart Thermostat",
+      "price": 249.99
+    },
+    {
+      "id": "22",
+      "name": "Bluetooth Speaker",
+      "price": 59.99
+    },
+    {
+      "id": "23",
+      "name": "Fitness Tracker",
+      "price": 99.99
+    },
+    {
+      "id": "24",
+      "name": "Tablet Stand",
+      "price": 19.99
+    },
+    {
+      "id": "25",
+      "name": "Portable Power Bank",
+      "price": 39.99
+    },
+    {
+      "id": "26",
+      "name": "Smart Light Bulb",
+      "price": 14.99
+    },
+    {
+      "id": "27",
+      "name": "VR Headset",
+      "price": 299.99
+    },
+    {
+      "id": "28",
+      "name": "Gaming Mouse Pad",
+      "price": 12.99
+    },
+    {
+      "id": "29",
+      "name": "Streaming Microphone",
+      "price": 89.99
+    },
+    {
+      "id": "30",
+      "name": "Laptop Cooling Pad",
+      "price": 24.99
+    },
+    {
+      "id": "31",
+      "name": "Smart Doorbell",
+      "price": 149.99
+    },
+    {
+      "id": "32",
+      "name": "Wireless Keyboard",
+      "price": 49.99
+    },
+    {
+      "id": "33",
+      "name": "Portable Projector",
+      "price": 199.99
+    },
+    {
+      "id": "34",
+      "name": "Smart Plug",
+      "price": 19.99
+    },
+    {
+      "id": "35",
+      "name": "Electric Scooter",
+      "price": 499.99
+    },
+    {
+      "id": "36",
+      "name": "Digital Photo Frame",
+      "price": 129.99
+    },
+    {
+      "id": "37",
+      "name": "Smart Speaker",
+      "price": 99.99
+    },
+    {
+      "id": "38",
+      "name": "Robot Vacuum",
+      "price": 299.99
+    },
+    {
+      "id": "39",
+      "name": "Portable Air Purifier",
+      "price": 79.99
+    },
+    {
+      "id": "40",
+      "name": "Smart Security Camera",
+      "price": 149.99
+    },
+    {
+      "id": "41",
+      "name": "Gaming Console",
+      "price": 499.99
+    },
+    {
+      "id": "42",
+      "name": "Smartphone Gimbal",
+      "price": 99.99
+    },
+    {
+      "id": "43",
+      "name": "Wireless Router",
+      "price": 129.99
+    },
+    {
+      "id": "44",
+      "name": "Smartwatch Band",
+      "price": 19.99
+    },
+    {
+      "id": "45",
+      "name": "Portable Bluetooth Adapter",
+      "price": 14.99
+    },
+    {
+      "id": "46",
+      "name": "Smart Scale",
+      "price": 49.99
+    },
+    {
+      "id": "47",
+      "name": "Electric Toothbrush",
+      "price": 39.99
+    },
+    {
+      "id": "48",
+      "name": "Smart Alarm Clock",
+      "price": 59.99
+    },
+    {
+      "id": "49",
+      "name": "Portable Coffee Maker",
+      "price": 99.99
+    },
+    {
+      "id": "50",
+      "name": "Smart Water Bottle",
+      "price": 29.99
+    },
+    {
+      "id": "51",
+      "name": "Smartphone Case",
+      "price": 19.99
+    },
+    {
+      "id": "52",
+      "name": "Wireless Charging Pad",
+      "price": 29.99
+    },
+    {
+      "id": "53",
+      "name": "Smart Bike Lock",
+      "price": 79.99
+    },
+    {
+      "id": "54",
+      "name": "Portable Fan",
+      "price": 14.99
+    },
+    {
+      "id": "55",
+      "name": "Smart Notebook",
+      "price": 29.99
+    },
+    {
+      "id": "56",
+      "name": "Smartphone Tripod",
+      "price": 19.99
+    },
+    {
+      "id": "57",
+      "name": "Smartphone Lens Kit",
+      "price": 39.99
+    },
+    {
+      "id": "58",
+      "name": "Smartphone Screen Protector",
+      "price": 9.99
+    },
+    {
+      "id": "59",
+      "name": "Smartphone Wallet Case",
+      "price": 24.99
+    },
+    {
+      "id": "60",
+      "name": "Smartphone Car Mount",
+      "price": 19.99
+    },
+    {
+      "id": "61",
+      "name": "Smartphone Ring Holder",
+      "price": 9.99
+    },
+    {
+      "id": "62",
+      "name": "Smartphone Stylus",
+      "price": 14.99
+    },
+    {
+      "id": "63",
+      "name": "Smartphone Cleaning Kit",
+      "price": 9.99
+    },
+    {
+      "id": "64",
+      "name": "Smartphone Stand with Charger",
+      "price": 39.99
+    },
+    {
+      "id": "65",
+      "name": "Smartphone Docking Station",
+      "price": 49.99
+    },
+    {
+      "id": "66",
+      "name": "Smartphone Power Bank",
+      "price": 29.99
+    },
+    {
+      "id": "67",
+      "name": "Smartphone Battery Case",
+      "price": 49.99
+    },
+    {
+      "id": "68",
+      "name": "Smartphone Wireless Charger",
+      "price": 39.99
+    },
+    {
+      "id": "69",
+      "name": "Smartphone Magnetic Mount",
+      "price": 19.99
+    },
+    {
+      "id": "70",
+      "name": "Smartphone Dashboard Mount",
+      "price": 24.99
+    },
+    {
+      "id": "71",
+      "name": "Smartphone Vent Mount",
+      "price": 14.99
+    },
+    {
+      "id": "72",
+      "name": "Smartphone Cup Holder Mount",
+      "price": 29.99
+    },
+    {
+      "id": "73",
+      "name": "Smartphone Windshield Mount",
+      "price": 19.99
+    },
+    {
+      "id": "74",
+      "name": "Smartphone Bike Mount",
+      "price": 29.99
+    },
+    {
+      "id": "75",
+      "name": "Smartphone Motorcycle Mount",
+      "price": 39.99
+    },
+    {
+      "id": "76",
+      "name": "Smartphone Boat Mount",
+      "price": 49.99
+    },
+    {
+      "id": "77",
+      "name": "Smartphone Airplane Mount",
+      "price": 59.99
+    },
+    {
+      "id": "78",
+      "name": "Smartphone Train Mount",
+      "price": 69.99
+    },
+    {
+      "id": "79",
+      "name": "Smartphone Bus Mount",
+      "price": 79.99
+    },
+    {
+      "id": "80",
+      "name": "Smartphone Subway Mount",
+      "price": 89.99
+    },
+    {
+      "id": "81",
+      "name": "Smartphone Taxi Mount",
+      "price": 99.99
+    },
+    {
+      "id": "82",
+      "name": "Smartphone Uber Mount",
+      "price": 109.99
+    },
+    {
+      "id": "83",
+      "name": "Smartphone Lyft Mount",
+      "price": 119.99
+    },
+    {
+      "id": "84",
+      "name": "Smartphone Delivery Mount",
+      "price": 129.99
+    },
+    {
+      "id": "85",
+      "name": "Smartphone Courier Mount",
+      "price": 139.99
+    },
+    {
+      "id": "86",
+      "name": "Smartphone Drone Mount",
+      "price": 149.99
+    },
+    {
+      "id": "87",
+      "name": "Smartphone Rocket Mount",
+      "price": 159.99
+    },
+    {
+      "id": "88",
+      "name": "Smartphone Space Mount",
+      "price": 169.99
+    },
+    {
+      "id": "89",
+      "name": "Smartphone Mars Mount",
+      "price": 179.99
+    },
+    {
+      "id": "90",
+      "name": "Smartphone Jupiter Mount",
+      "price": 189.99
+    },
+    {
+      "id": "91",
+      "name": "Smartphone Saturn Mount",
+      "price": 199.99
+    },
+    {
+      "id": "92",
+      "name": "Smartphone Uranus Mount",
+      "price": 209.99
+    },
+    {
+      "id": "93",
+      "name": "Smartphone Neptune Mount",
+      "price": 219.99
+    },
+    {
+      "id": "94",
+      "name": "Smartphone Pluto Mount",
+      "price": 229.99
+    },
+    {
+      "id": "95",
+      "name": "Smartphone Galaxy Mount",
+      "price": 239.99
+    },
+    {
+      "id": "96",
+      "name": "Smartphone Universe Mount",
+      "price": 249.99
+    },
+    {
+      "id": "97",
+      "name": "Smartphone Multiverse Mount",
+      "price": 259.99
+    },
+    {
+      "id": "98",
+      "name": "Smartphone Omniverse Mount",
+      "price": 269.99
+    },
+    {
+      "id": "99",
+      "name": "Smartphone Infinity Mount",
+      "price": 279.99
+    },
+    {
+      "id": "100",
+      "name": "Smartphone Beyond Mount",
+      "price": 289.99
+    }
+  ],
+  "cart": [
+    {
+      "id": "5",
+      "name": "USB-C Charger",
+      "price": 19.99
+    },
+    {
+      "id": "4",
+      "name": "Smartphone Stand",
+      "price": 15.99
+    },
+    {
+      "id": "3",
+      "name": "Gaming Keyboard",
+      "price": 89.99
+    },
+    {
+      "id": "2",
+      "name": "Bluetooth Headphones",
+      "price": 49.99
+    },
+    {
+      "id": "3",
+      "name": "Gaming Keyboard",
+      "price": 89.99
+    },
+    {
+      "id": "3",
+      "name": "Gaming Keyboard",
+      "price": 89.99
+    },
+    {
+      "id": "3",
+      "name": "Gaming Keyboard",
+      "price": 89.99
+    },
+    {
+      "id": "3",
+      "name": "Gaming Keyboard",
+      "price": 89.99
+    }
+  ]
+}
