@@ -1,4 +1,4 @@
-const API_URL = "https://fv473l2zd8.execute-api.us-east-1.amazonaws.com/";
+const API_URL = "https://fv473l2zd8.execute-api.us-east-1.amazonaws.com";
 
 let cart = [];
 let allProducts = []; // Store all products globally for filtering
