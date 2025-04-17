@@ -1,4 +1,5 @@
-const API_URL = "http://localhost:3000";
+const API_URL = "https://rameshramasamy1989.github.io/simple-e-commerce-/db.json";
+
 let cart = [];
 let allProducts = []; // Store all products globally for filtering
 // Utility Functions
