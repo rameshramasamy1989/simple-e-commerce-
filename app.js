@@ -1,4 +1,4 @@
-const API_URL = "https://rameshramasamy1989.github.io/data/db.json";
+const API_URL = "https://fv473l2zd8.execute-api.us-east-1.amazonaws.com/";
 
 let cart = [];
 let allProducts = []; // Store all products globally for filtering
@@ -10,7 +10,7 @@ const showPage = (pageId) => {
 
 const fetchProducts = async () => {
   try {
-    const response = await fetch(`${API_URL}/products`);
+    const response = await fetch(`${API_URL}/items`);
     if (!response.ok) throw new Error("Failed to fetch products");
     return await response.json();
   } catch (error) {
