@@ -24,6 +24,7 @@ const fetchProducts = async () => {
 const renderProducts = async (searchQuery = '') => {
   if (allProducts.length === 0) {
     allProducts = await fetchProducts(); // Fetch products only once
+    console.log("Fetched products:", allProducts);
   }
 
   const filteredProducts = allProducts.filter((product) =>
