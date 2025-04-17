@@ -87,7 +87,7 @@ const addToCart = async (productId) => {
   }
   try {
     await fetch(`${API_URL}/cart`, {
-      method: 'POST',
+      method: 'PUT',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(product),
     });
